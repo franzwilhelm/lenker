@@ -9,14 +9,14 @@ http://biginsight.no/biginsight/drupal/
 https://titan.uio.no/node/1601
 
 # Use cases
-http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
-http://www.theverge.com/2016/9/27/13078138/google-translate-ai-machine-learning-gnmt
-http://thenextweb.com/dd/2016/09/26/adobe-berkeley-editing-tool/
+http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot <br>
+http://www.theverge.com/2016/9/27/13078138/google-translate-ai-machine-learning-gnmt <br>
+http://thenextweb.com/dd/2016/09/26/adobe-berkeley-editing-tool/ <br>
 http://www.iotcentral.io/blog/a-sneak-peek-at-the-future-of-artificial-intelligence-the-newest-
 
 # Nye fremskritt
-<b>Sjekk twitter:</b> https://twitter.com/hashtag/machinelearning
-http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony
+<b>Sjekk twitter:</b> https://twitter.com/hashtag/machinelearning <br>
+http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony <br>
 http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-artificial-intelligence
 
 
