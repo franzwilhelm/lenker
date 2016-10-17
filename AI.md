@@ -6,7 +6,7 @@ http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-a
 
 # Kunnskap
 http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles?utm_content=buffer4e3fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer <br>
-http://venturebeat.com/2016/09/26/how-machine-learning-can-help-the-security-industry/?utm_content=buffer842c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 
+http://venturebeat.com/2016/09/26/how-machine-learning-can-help-the-security-industry/?utm_content=buffer842c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer <br>
 <b>Obamas syn på AI:</b> http://news.mit.edu/2016/president-obama-discusses-artificial-intelligence-media-lab-joi-ito-1014
 
 # Use cases
