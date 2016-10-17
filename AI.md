@@ -18,6 +18,9 @@ http://www.iotcentral.io/blog/a-sneak-peek-at-the-future-of-artificial-intellige
 http://biginsight.no/biginsight/drupal/
 https://titan.uio.no/node/1601
 
+# Big data
+http://www.networkworld.com/article/3131554/education/big-data-on-campus.html
+
 # Hardware
 http://www.extremetech.com/extreme/236362-how-ibms-neuromorphic-brain-chips-will-begin-the-next-era-in-computing
 
