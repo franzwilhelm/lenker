@@ -1,3 +1,4 @@
+
 # Nye fremskritt
 <b>Sjekk twitter:</b> https://twitter.com/hashtag/machinelearning <br>
 http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony <br>
@@ -31,3 +32,6 @@ http://www.teglor.com/b/deep-learning-libraries-language-cm569/
 
 # lol
 http://www.extremetech.com/extreme/236113-algorithm-generated-nonsense-reviews-fool-actual-human-peer-reviewers-one-in-four-times
+
+# Unsorted
+http://www.iamwire.com/2016/10/10-machine-learning-online-courses-for-beginners-2/142589
