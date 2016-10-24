@@ -1,6 +1,9 @@
 Go
 Useful Go stuff
 
+# Learn Go
+https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md
+
 # Simple go server with Gorilla
 http://www.giantflyingsaucer.com/blog/?p=5635
 
