@@ -27,3 +27,6 @@ https://github.com/gorilla
 
 # Big Query GO on Github
 https://medium.com/google-cloud/analyzing-go-code-with-bigquery-485c70c3b451#.6ahjsbm03
+
+# Simple Web Scrapper
+https://schier.co/blog/2015/04/26/a-simple-web-scraper-in-go.html
