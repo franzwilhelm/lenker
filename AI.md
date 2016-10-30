@@ -35,3 +35,4 @@ http://www.extremetech.com/extreme/236113-algorithm-generated-nonsense-reviews-f
 
 # Unsorted
 http://www.iamwire.com/2016/10/10-machine-learning-online-courses-for-beginners-2/142589
+https://yangcha.github.io/
