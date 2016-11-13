@@ -11,4 +11,10 @@ Lage en ai som kan avgjøre om et design er godt eller dårlig
 "Gitt at touch-bar er noe folk ønsker, hvorfor ikke bare benytte iphone som man har fra før og bruke 
 den som en touchbar. Dvs lage en app på samme måte"
 
+# Rekrutteringsbot
+Rekrutterer de beste kandidene basert på samtaler med kandidater som deler informasjon gjennom 
+et chatte-grensesnitt. Tilkoblet slack eller andre interne chatte eller internløsninger hos bedrifter for å kunne ta samtalen videre med spennende kandidater.
 
+# Hverdagshjelper
+Ha en chatte app som hjelper vanlige folk å føle seg awesome og passet på av eksperter på ulike felter gjennom chat, tlf eller remote desktop. Skaffe eksperter på områder som kobler seg opp på tjenesten og gjør ekspertisen sin klar til on demand hjelp. På sikt kan ting automatiseres og data samles fra samtalene. Lære av markedet og bygge deretter. Til Franz: Du må ta en titt på Ycombinator sitt kurs for startup founderrs. Sinnsykt bra!
+ 
