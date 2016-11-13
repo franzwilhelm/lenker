@@ -20,3 +20,6 @@ Ha en chatte app som hjelper vanlige folk å føle seg awesome og passet på av 
  
 # Matbestilling fra spill
 Integrert bestillingstjeneste for mat inne i spill.. Kinesiske markedet først? Evt USA, ettersom infrastrukturen for slike tjenester er veldig god. Et chatteinterface. Bruke andre tjenester i bunnen?
+
+# Action exchange
+Create a open source project which people can add in their app and share anonymeus actions within the app with others and gain access to what they are experience from theirs. None sensitive information. All is seen through a web interface.
