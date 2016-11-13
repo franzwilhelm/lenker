@@ -18,3 +18,5 @@ et chatte-grensesnitt. Tilkoblet slack eller andre interne chatte eller internl�
 # Hverdagshjelper
 Ha en chatte app som hjelper vanlige folk å føle seg awesome og passet på av eksperter på ulike felter gjennom chat, tlf eller remote desktop. Skaffe eksperter på områder som kobler seg opp på tjenesten og gjør ekspertisen sin klar til on demand hjelp. På sikt kan ting automatiseres og data samles fra samtalene. Lære av markedet og bygge deretter. Til Franz: Du må ta en titt på Ycombinator sitt kurs for startup founderrs. Sinnsykt bra!
  
+# Matbestilling fra spill
+Integrert bestillingstjeneste for mat inne i spill.. Kinesiske markedet først? Evt USA, ettersom infrastrukturen for slike tjenester er veldig god. Et chatteinterface. Bruke andre tjenester i bunnen?
