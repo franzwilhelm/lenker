@@ -1,20 +1,31 @@
 
 # Nye fremskritt
-<b>Sjekk twitter:</b> https://twitter.com/hashtag/machinelearning <br>
-http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony <br>
-http://www.siebelenergyinstitute.org/machine-learning-tool-manages-power-generation-efficiently-human-operators/ <br>
+Sjekk twitter: https://twitter.com/hashtag/machinelearning 
+http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony 
+http://www.siebelenergyinstitute.org/machine-learning-tool-manages-power-generation-efficiently-human-operators/ 
 http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-artificial-intelligence
 
 # Kunnskap
-http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles?utm_content=buffer4e3fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer <br>
-http://venturebeat.com/2016/09/26/how-machine-learning-can-help-the-security-industry/?utm_content=buffer842c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer <br>
-<b>Obamas syn på AI:</b> http://news.mit.edu/2016/president-obama-discusses-artificial-intelligence-media-lab-joi-ito-1014
+http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles?utm_content=buffer4e3fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 
+http://venturebeat.com/2016/09/26/how-machine-learning-can-help-the-security-industry/?utm_content=buffer842c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 
+https://en.wikipedia.org/wiki/Stemming
+https://en.wikipedia.org/wiki/Feature_extraction
+https://en.wikipedia.org/wiki/Bag-of-words_model
+https://en.wikipedia.org/wiki/Word2vec
+http://stackoverflow.com/questions/31321209/doc2vec-how-to-get-document-vectors
+https://en.wikipedia.org/wiki/Principal_component_analysis
+https://en.wikipedia.org/wiki/Hash_function
+https://en.wikipedia.org/wiki/Collaborative_filtering
+http://stackoverflow.com/questions/19483351/converting-json-string-to-dictionary-not-list-python
+ 
+
+Obamas syn på AI: http://news.mit.edu/2016/president-obama-discusses-artificial-intelligence-media-lab-joi-ito-1014
 
 # Use cases
-http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot <br>
-http://www.theverge.com/2016/9/27/13078138/google-translate-ai-machine-learning-gnmt <br>
-http://thenextweb.com/dd/2016/09/26/adobe-berkeley-editing-tool/ <br>
-http://www.iotcentral.io/blog/a-sneak-peek-at-the-future-of-artificial-intelligence-the-newest- <br>
+http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot 
+http://www.theverge.com/2016/9/27/13078138/google-translate-ai-machine-learning-gnmt 
+http://thenextweb.com/dd/2016/09/26/adobe-berkeley-editing-tool/ 
+http://www.iotcentral.io/blog/a-sneak-peek-at-the-future-of-artificial-intelligence-the-newest- 
 http://www.cannymachines.com/entries/5/applying_machine_learning_to_coffee_roasting
 
 # Bedrifter
