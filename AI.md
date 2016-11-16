@@ -22,7 +22,7 @@ http://news.mit.edu/2016/president-obama-discusses-artificial-intelligence-media
 # Use cases
 http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot 
 http://www.theverge.com/2016/9/27/13078138/google-translate-ai-machine-learning-gnmt 
-http://thenextweb.com/dd/2016/09/26/adobe-berkeley-editing-tool/ 
+http://thenextweb.com/dd/2016/09/26/adobe-berkeley-editing-tool <br>
 http://www.iotcentral.io/blog/a-sneak-peek-at-the-future-of-artificial-intelligence-the-newest- 
 http://www.cannymachines.com/entries/5/applying_machine_learning_to_coffee_roasting
 
