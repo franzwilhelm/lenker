@@ -8,12 +8,12 @@ http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-a
 # Kunnskap
 http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles?utm_content=buffer4e3fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 
 http://venturebeat.com/2016/09/26/how-machine-learning-can-help-the-security-industry/?utm_content=buffer842c8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 
-https://en.wikipedia.org/wiki/Stemming
-https://en.wikipedia.org/wiki/Feature_extraction
-https://en.wikipedia.org/wiki/Bag-of-words_model
-https://en.wikipedia.org/wiki/Word2vec
-http://stackoverflow.com/questions/31321209/doc2vec-how-to-get-document-vectors
-https://en.wikipedia.org/wiki/Principal_component_analysis
+https://en.wikipedia.org/wiki/Stemming <br>
+https://en.wikipedia.org/wiki/Feature_extraction<br>
+https://en.wikipedia.org/wiki/Bag-of-words_model<br>
+https://en.wikipedia.org/wiki/Word2vec<br>
+http://stackoverflow.com/questions/31321209/doc2vec-how-to-get-document-vectors<br>
+https://en.wikipedia.org/wiki/Principal_component_analysis<br>
 https://en.wikipedia.org/wiki/Hash_function
 https://en.wikipedia.org/wiki/Collaborative_filtering
 http://stackoverflow.com/questions/19483351/converting-json-string-to-dictionary-not-list-python
