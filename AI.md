@@ -1,9 +1,9 @@
 
 # Nye fremskritt
-https://twitter.com/hashtag/machinelearning 
-http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony 
-http://www.siebelenergyinstitute.org/machine-learning-tool-manages-power-generation-efficiently-human-operators/ 
-http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-artificial-intelligence
+https://twitter.com/hashtag/machinelearning <br>
+http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony <br>
+http://www.siebelenergyinstitute.org/machine-learning-tool-manages-power-generation-efficiently-human-operators/ <br>
+http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-artificial-intelligence<br>
 
 # Kunnskap
 http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles?utm_content=buffer4e3fd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer 
