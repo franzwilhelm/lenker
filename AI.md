@@ -1,6 +1,6 @@
 
 # Nye fremskritt
-Sjekk twitter: https://twitter.com/hashtag/machinelearning 
+https://twitter.com/hashtag/machinelearning 
 http://www.theverge.com/2016/9/26/13055938/ai-pop-song-daddys-car-sony 
 http://www.siebelenergyinstitute.org/machine-learning-tool-manages-power-generation-efficiently-human-operators/ 
 http://www.theverge.com/2016/6/1/11829678/google-magenta-melody-art-generative-artificial-intelligence
@@ -17,9 +17,7 @@ https://en.wikipedia.org/wiki/Principal_component_analysis<br>
 https://en.wikipedia.org/wiki/Hash_function
 https://en.wikipedia.org/wiki/Collaborative_filtering
 http://stackoverflow.com/questions/19483351/converting-json-string-to-dictionary-not-list-python
- 
-
-Obamas syn på AI: http://news.mit.edu/2016/president-obama-discusses-artificial-intelligence-media-lab-joi-ito-1014
+http://news.mit.edu/2016/president-obama-discusses-artificial-intelligence-media-lab-joi-ito-1014
 
 # Use cases
 http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot 
